@@ -14,7 +14,7 @@ section{
     justify-content:center;
     align-items:center;
 }
-#section{
+#section div{
     position:relative ;
     width:100%;
     height:100vh;
